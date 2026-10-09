@@ -1,0 +1,7 @@
+Options -MultiViews
+RewriteEngine On
+
+# Let the exported Framer runtime handle client-side routes such as /contact.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.html [L]

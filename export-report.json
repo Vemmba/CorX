@@ -1,0 +1,13 @@
+{
+  "source": "https://effective-salmon-548944.framer.app/",
+  "platform": "framer",
+  "captureMode": "html-with-runtime",
+  "generatedAt": "2026-10-09T21:39:06.475Z",
+  "assets": 460,
+  "failedAssets": [],
+  "subpages": 0,
+  "visualValidation": "not-run",
+  "limitations": [
+    "Server-side accounts, payments, search and form processing are not exported."
+  ]
+}

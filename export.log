@@ -1,0 +1,49 @@
+[21:37:43] [info] Source   : [4mhttps://effective-salmon-548944.framer.app[24m
+[21:37:43] [info] Output   : [38;2;250;178;131mC:\Users\Moaid\Desktop\FramerExport\New website[39m
+[21:37:43] [info] Platform : [38;2;250;178;131mFramer[39m
+[21:37:43] [info] DPR      : [38;2;250;178;131m1[39m
+[21:37:43] [info] Subpages : [38;2;128;128;128mdisabled (pass --subpages to crawl the whole site)[39m
+[21:37:43] [log] Output directory structure created
+[21:37:43] [log] Fetching SSR HTML from https://effective-salmon-548944.framer.app
+[21:37:43] [ok] SSR HTML fetched (1274.5 KB)
+[21:37:43] [log] Launching headless Chromium...
+[21:37:45] [ok] Chromium launched
+[21:37:45] [log] Stealth hardening applied (Chrome 148.0.7778.97)
+[21:37:45] [log] Viewport set to 1440x900 at 1x DPR
+[21:37:45] [log] Blocking 8 tracking domains:
+[21:37:45] [log]   - sentry.io
+[21:37:45] [log]   - www.googletagmanager.com
+[21:37:45] [log]   - connect.facebook.net
+[21:37:45] [log]   - stats.g.doubleclick.net
+[21:37:45] [log]   - google-analytics.com
+[21:37:45] [log]   - events.framer.com
+[21:37:45] [log]   - api.framer.com
+[21:37:45] [log]   - collect.frameranalytics.com
+[21:37:45] [log] Network interception enabled
+[21:37:45] [info] Navigating to https://effective-salmon-548944.framer.app
+[21:37:47] [ok] Document loaded; waiting for page content and resources
+[21:37:47] [log] Intercepted 7 resources, blocked 1 tracking requests, skipped 0 platform assets
+[21:37:47] [log] Checking DOM-based platform detection...
+[21:37:48] [log] Hydration content found: #main
+[21:38:03] [log] Waiting for font layout and response bodies
+[21:38:05] [log] Resources settled
+[21:38:14] [log] Captured HTML and CSSOM (1310.5 KB)
+[21:38:14] [ok] Captured 75 network resources total
+[21:38:14] [log]   CSS: 0 | JS: 27 | Images: 38 | Fonts: 5
+[21:38:16] [log] Browser closed
+[21:38:17] [ok] Queued 99 resource(s) declared in HTML but never requested
+[21:38:17] [log] Starting download of 186 assets and their CSS/HTML dependencies
+[21:38:38] [ok] Downloads complete: 457 succeeded, 75 from cache
+[21:38:40] [ok] Lazy-loaded chunks resolved: 3
+[21:38:40] [log] Starting HTML post-processing...
+[21:38:40] [log] HTML size: 1310.5 KB
+[21:38:40] [ok] Index HTML pipeline complete
+[21:38:47] [log] Rewrote URLs in 17 JS/CSS files
+[21:38:47] [ok] Captured asset URLs rewritten to local paths
+[21:39:06] [ok] Formatted 35/35 JS/MJS files
+[21:39:06] [log] Writing index.html (1312.3 KB)...
+[21:39:06] [ok] index.html written
+[21:39:06] [log] serve.js written
+[21:39:06] [log] package.json written for serve.js
+[21:39:06] [ok] Output build complete
+[21:39:06] [ok] Export complete!
