@@ -702,7 +702,7 @@ function rn(e, t, n, r) {
     else if (i.isThenable(n)) {
       if (!e)
         throw new Av(
-          `Cannot stringify a Promise or thenable — use stringifyAsync instead`,
+          `Cannot stringify a Promise or thenable    use stringifyAsync instead`,
           c,
           n,
           t

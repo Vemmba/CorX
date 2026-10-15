@@ -3472,7 +3472,7 @@ e(() => {
       dTSdPGpXg: {
         elements: {},
         page: F(() => import("./Nu7dTGAGSsKHYNi87P05wcEB1yfEERDfY0aeMVlL77g.COoUZKU7.mjs")),
-        path: `/all-works`,
+        path: `/all-work`,
       },
       pnrf0LVZ7: {
         elements: {},
