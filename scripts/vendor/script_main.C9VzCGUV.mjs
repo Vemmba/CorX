@@ -3254,7 +3254,7 @@ async function ar({
         localeId: o,
         locales: cr,
         preserveQueryParams: void 0,
-        siteCanonicalURL: `https://extraordinary-aim-015099.framer.app`,
+        siteCanonicalURL: `https://corx.club`,
         EditorBar:
           w === void 0
             ? void 0
